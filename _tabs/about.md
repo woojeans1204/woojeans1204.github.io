@@ -3,6 +3,8 @@
 icon: fas fa-info-circle
 order: 4
 ---
+> South Korea, 대한민국
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-> {: .prompt-tip }
+> 대구과학고등학교 / 34기
+
+> 서울대학교 / 컴퓨터공학부 24학번
