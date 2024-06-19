@@ -14,12 +14,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 우진스 기록용 블로그 # the main title
+title: 안우진의 기록용 블로그 # the main title
 
 tagline: woojeans' blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  안우진의 공부, 프로젝트 기록용 블로그
+  컴퓨터 공학, it, 안우진
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -27,6 +27,9 @@ url: "https://woojeans1204.github.io"
 
 github:
   username: woojeans1204 # change to your github username
+
+instagram:
+  username: woo_jeans1204
 
 social:
   # Change to your full name.
@@ -37,6 +40,8 @@ social:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
+    - https://www.instagram.com/woo_jeans1204
+
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
